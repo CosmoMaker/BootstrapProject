@@ -1,0 +1,10 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+:root {--bs-body-bg: #D2B48C;
+}
+
+img {
+	display: block;
+	margin: auto;
+	width: 50px;
+}
+
